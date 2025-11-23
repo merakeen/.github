@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://merakeen.com">
-    <img src="https://i.ibb.co/zhB1nfJN/merakeen-signature.png" alt="merakeen logo" width="175">
+    <img src="https://raw.githubusercontent.com/merakeen/.github/main/merakeen-signature.png" alt="merakeen logo" width="175">
   </a>
 </p>
 
